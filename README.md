@@ -24,7 +24,8 @@
 <img width="1042" alt="Screen Shot 2019-08-27 at 3 02 18 PM" src="https://user-images.githubusercontent.com/43501958/63811670-ff1d9580-c8dc-11e9-8d2d-12930e706bc7.png">
 
 2. Classify a strawberry.
-<img width="293" alt="Screen Shot 2019-08-27 at 2 14 34 PM" src="https://user-images.githubusercontent.com/43501958/63811680-05137680-c8dd-11e9-83d7-730f5ad47e53.png">
+<img width="1019" alt="Screen Shot 2019-08-27 at 3 21 25 PM" src="https://user-images.githubusercontent.com/43501958/63812174-66881500-c8de-11e9-8cc5-4ae35ac90ead.png">
+
 
 3. Classify a bengal cat.
 <img width="963" alt="Screen Shot 2019-08-27 at 3 12 57 PM" src="https://user-images.githubusercontent.com/43501958/63811746-2bd1ad00-c8dd-11e9-9cf8-9638ac798389.png">
