@@ -29,7 +29,7 @@ Mobilenet in JSON Format
 
 
 3. Classify a bengal cat.
-![00000000](https://user-images.githubusercontent.com/43501958/63812558-9b489c00-c8df-11e9-886f-41b07ed7b607.jpg)
+<img width="945" alt="Screen Shot 2019-08-27 at 3 30 04 PM" src="https://user-images.githubusercontent.com/43501958/63812612-c206d280-c8df-11e9-94f8-6b6f572a2134.png">
 
 
 
