@@ -1,6 +1,13 @@
-# tensorflow-js-imageClassifier
-## First tinkering with Tensorflow.js
-### Siraj' ML Course HW1
+# First tinkering with Tensorflow.js
+#### Siraj' ML Course HW1
+
+## Usage
+
+1. Download all three files in this repo to your local directory.
+2. Make sure they are all in the same folder.
+3. Open up 'hw1.html' in your browser and upload whatever images you want to classify.
+4. That's it. The consequences are yours -- you might be shocked at who you are (see demo)
+
 
 ### Model Used:
 [Mobilenet in JSON Format]('https://storage.googleapis.com/tfjs-models/tfjs/mobilenet_v1_1.0_224/model.json')
