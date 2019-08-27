@@ -10,7 +10,8 @@
 
 
 ### Model Used:
-[Mobilenet in JSON Format]('https://storage.googleapis.com/tfjs-models/tfjs/mobilenet_v1_1.0_224/model.json')
+Mobilenet in JSON Format
+'https://storage.googleapis.com/tfjs-models/tfjs/mobilenet_v1_1.0_224/model.json'
 
 ### Technologies:
 
