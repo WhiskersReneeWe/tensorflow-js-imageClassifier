@@ -20,15 +20,14 @@ Mobilenet in JSON Format
 
 ### App UI 
 
-1. Classify who I am?
-
+1. **Classify who I am?**
 <img width="1042" alt="Screen Shot 2019-08-27 at 3 02 18 PM" src="https://user-images.githubusercontent.com/43501958/63811670-ff1d9580-c8dc-11e9-8d2d-12930e706bc7.png">
 
-2. Classify a strawberry.
+2. **Classify a strawberry**
 <img width="1019" alt="Screen Shot 2019-08-27 at 3 21 25 PM" src="https://user-images.githubusercontent.com/43501958/63812174-66881500-c8de-11e9-8cc5-4ae35ac90ead.png">
 
 
-3. Classify a bengal cat.
+3. **Classify a bengal cat**
 <img width="945" alt="Screen Shot 2019-08-27 at 3 30 04 PM" src="https://user-images.githubusercontent.com/43501958/63812612-c206d280-c8df-11e9-94f8-6b6f572a2134.png">
 
 
