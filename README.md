@@ -32,11 +32,11 @@
 
 
 
-Turns out I am a shower curtain or a swing. Neither of them is satisfying. In all seriousness, it might be because my scarf takes too much attention from the model. The predictions on who I am are consistent, which is a good sign. Other predictions are kinda awesome!
+Turns out I am a shower curtain or a swing. Neither of them is satisfying. In all seriousness, it might be because my scarf attracts too much attention from the model. The predictions on who I am are consistent, which is a good sign. Other predictions are kinda awesome!
 
 ### Improvements
 
-Need to find a way to serve the locally trained Keras later on
+Need to find a way to serve the locally-trained Keras later on.
 
 ### References
 
