@@ -10,8 +10,11 @@
 * JQuery, Bootstrap
 * Tensorflow.js
 
-### App UI 
+### App UI (predicting what am I?)
 <img width="1143" alt="Screen Shot 2019-08-27 at 2 23 19 PM" src="https://user-images.githubusercontent.com/43501958/63809838-32115a80-c8d8-11e9-9881-755895a7b26b.png">
+
+Turns out I might be a 'bib' or a shower curtain. None of them is satisfying.
+
 ### Issues
 
 The model doesn't really predict common objects well. Need to find a way to serve the locally trained Keras later on
