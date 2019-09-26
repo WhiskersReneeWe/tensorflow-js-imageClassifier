@@ -31,7 +31,7 @@ Mobilenet in JSON Format
 
 
 
-Turns out I am a shower curtain or a swing. Neither of them is satisfying. In all seriousness, it might be because my scarf attracts too much attention from the model. The predictions on who I am are consistent, which is a good sign. Other predictions are kinda awesome!
+Turns out I am a shower curtain or a swing. Neither of them is satisfying. In all seriousness, it might be because my scarf attracts too much attention from the model, and this pretrained model was not trained on Asian women! The predictions on who I am are consistent, which is a good sign. Other predictions are kinda awesome!
 
 ### Improvements
 
