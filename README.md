@@ -1,5 +1,4 @@
 # First tinkering with Tensorflow.js
-#### [Siraj' ML Course HW1](https://www.machinelearningcourse.io/courses/take/make-money)
 
 ## Usage
 
